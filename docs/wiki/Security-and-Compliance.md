@@ -35,4 +35,4 @@ Explicitly **allows** legit AI + search crawlers — GPTBot, OAI-SearchBot, Chat
 
 ## Reporting
 
-`/.well-known/security.txt` (RFC 9116) → `contact@numetal.xyz`.
+`/.well-known/security.txt` (RFC 9116) → `contact@gokhan.vc`.

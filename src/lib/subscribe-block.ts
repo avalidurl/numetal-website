@@ -34,7 +34,7 @@ export const subscribeBlockHtml = `
     <form class="foot-sub-form" method="POST" action="https://api.gokhan.vc/newsletter/subscribe">
       <p class="foot-sub-copy" id="foot-sub-heading">Dispatches from the studio — occasional, low-frequency notes on what we ship. Optional wallet delivery over XMTP. <strong>No spam.</strong></p>
       <div class="foot-sub-row">
-        <input type="email" name="email" required placeholder="you@email.com" autocomplete="email" aria-label="Email" class="foot-sub-input">
+        <input type="email" name="email" required placeholder="contact@gokhan.vc" autocomplete="email" aria-label="Email" class="foot-sub-input">
         <input type="hidden" name="site" value="numetal">
         <div class="foot-sub-actions">
           <button type="submit" class="foot-sub-btn">Subscribe</button>
