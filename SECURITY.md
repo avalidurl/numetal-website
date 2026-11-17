@@ -6,7 +6,7 @@ If you believe you have found a security vulnerability in the Numetal website
 (`numetal.xyz`) or this repository, please report it privately.
 
 - **Preferred:** open a [private security advisory](https://github.com/gokhan-vc/numetal-website/security/advisories/new).
-- **Email:** contact@numetal.xyz
+- **Email:** contact@gokhan.vc
 
 Please include enough detail to reproduce (URL, request, expected vs actual
 behavior) and, where relevant, a proof of concept. Do not open a public issue

@@ -21,4 +21,4 @@ Numetal is a studio that **builds and backs autonomous agents** across four mark
 | Stack | Astro 6 · Cloudflare Workers · TypeScript |
 | Worker | `numetal-site` |
 | Token | $NUMETAL — `0x57EDb7FC54ADa9Ef4E113DC05A168449e63cFbA3` (Base) |
-| Contact | `contact@numetal.xyz` |
+| Contact | `contact@gokhan.vc` |
